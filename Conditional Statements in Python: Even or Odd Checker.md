@@ -21,7 +21,7 @@ else:
 ```
 
 ## Output
-<img width="175" height="117" alt="Screenshot 2025-10-20 174118" src="https://github.com/user-attachments/assets/8552e618-7e43-4b19-9709-0b465ff40887" />
-<img width="78" height="80" alt="Screenshot 2025-10-20 174210" src="https://github.com/user-attachments/assets/ea3d1aae-5c73-480e-8c1c-8b829e520989" />
+<img width="254" height="228" alt="Screenshot 2025-10-20 174758" src="https://github.com/user-attachments/assets/b82db079-7b0d-499b-9dbf-c7359003d715" />
+<img width="254" height="228" alt="Screenshot 2025-10-20 174933" src="https://github.com/user-attachments/assets/748dd184-d387-4ff4-b4ee-a6c23a1aedc1" />
 ## Result
 Successfully wrote a Python program to check whether the given number is even or odd using if...else statements.
