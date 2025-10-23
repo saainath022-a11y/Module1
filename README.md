@@ -47,13 +47,14 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 Add Code here
-```
-a=int(input())
-if a%2==0:
-    print("EVEN")
-else:
-    print("ODD")
-```
+a=0==True
+b=False==False 
+c=True+True
+d=False+9
+print("a is",a)
+print("b is",b)
+print("c:",c)
+print("d:",d)
 
 ## Output
 <img width="256" height="297" alt="Screenshot 2025-10-20 175503" src="https://github.com/user-attachments/assets/88706e19-7822-4ef0-9345-dd929ffab6c7" />
